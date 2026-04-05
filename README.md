@@ -10,13 +10,11 @@
 
 - **Integration:** Custom REST APIs, Self-Hosted VPS, WhatsApp · Slack
 
-## 🚀 Flagship Projects
+### 🚀 Flagship Projects
 
-**Self-Healing CRM Sync** — Zero-downtime n8n logic with auto-recovery. No manual intervention.
-
-**Autonomous AI Agents** — Multi-agent RAG systems with long-term memory, built for enterprise scale.
-
-**Sales Intelligence Engine** — AI lead scoring + multi-channel automation across Slack and WhatsApp.
+* **AI Document Intelligence System** — Automated invoice & contract parsing using LLMs to extract structured data with 99% accuracy.
+* **Real Estate AI Enquiry Handler** — RAG-powered WhatsApp bot that qualifies leads and answers property queries using custom knowledge bases.
+* **Multi-Channel Sales Automation** — End-to-end lead orchestration across Slack, CRM, and Email, reducing manual follow-ups by 80%.
 
 ## 📬 Let's Work Together
 
