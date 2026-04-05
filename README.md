@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Avinash | Lead AI Automation Architect ⚡
 
-<!--
-**avinashcraft/Avinashcraft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Building self-healing, AI-powered automation systems for Western businesses.
 
-Here are some ideas to get you started:
+## 🛠 Core Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Orchestration:** n8n (Expert), LangChain
+
+- **AI Infra:** OpenAI, Anthropic, Pinecone, Weaviate
+
+- **Integration:** Custom REST APIs, Self-Hosted VPS, WhatsApp · Slack
+
+## 🚀 Flagship Projects
+
+**Self-Healing CRM Sync** — Zero-downtime n8n logic with auto-recovery. No manual intervention.
+
+**Autonomous AI Agents** — Multi-agent RAG systems with long-term memory, built for enterprise scale.
+
+**Sales Intelligence Engine** — AI lead scoring + multi-channel automation across Slack and WhatsApp.
+
+## 📬 Let's Work Together
+
+[Upwork](YOUR_LINK) · [LinkedIn](YOUR_LINK)
